@@ -1,4 +1,4 @@
-🌟 Personal Portfolio Website  
+🌟 Personal Portfolio Website
 
 Welcome to my **Portfolio Website**, a minimal yet elegant showcase of my skills and projects. Built with love using **HTML** and **CSS**, this website reflects my journey as a developer while maintaining a user-friendly design.
 
